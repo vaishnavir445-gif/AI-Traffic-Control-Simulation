@@ -44,6 +44,12 @@ streamlit run app.py
 ## 🌐 Live Demo
 👉 (https://ai-traffic-control-simulation-zlndhyezptjawhnkq7s96x.streamlit.app/)
 
+## 📸 Preview
+
+| Live Detection | Traffic Analysis |
+|----------------|-----------------|
+| ![Demo 1](demo1.png) | ![Demo 2](demo2.png) |
+
 ---
 
 ## 👩‍💻 Author
