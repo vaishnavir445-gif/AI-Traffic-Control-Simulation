@@ -28,10 +28,21 @@ This project simulates a smart traffic management system that detects vehicles f
 
 ---
 
+## 📁 Project Structure
+ai-traffic-control-simulation/
+│
+├── app.py
+├── requirements.txt
+├── runtime.txt
+└── README.md
+
 ##  How to Run
 
 pip install -r requirements.txt  
 streamlit run app.py  
+
+## 🌐 Live Demo
+👉 (https://ai-traffic-control-simulation-zlndhyezptjawhnkq7s96x.streamlit.app/)
 
 ---
 
