@@ -1,6 +1,5 @@
 streamlit
 numpy
-opencv-python
+opencv
 ultralytics
-torch
-torchvision
+
