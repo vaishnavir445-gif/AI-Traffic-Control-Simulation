@@ -30,7 +30,6 @@ This project simulates a smart traffic management system that detects vehicles f
 
 ## 📁 Project Structure
 ai-traffic-control-simulation/
-│
 ├── app.py
 ├── requirements.txt
 ├── runtime.txt
