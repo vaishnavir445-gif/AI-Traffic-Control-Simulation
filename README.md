@@ -41,7 +41,7 @@ pip install -r requirements.txt
 streamlit run app.py  
 
 ## 🌐 Live Demo
-👉 (https://ai-traffic-control-simulation-zlndhyezptjawhnkq7s96x.streamlit.app/)
+👉 (https://ai-traffic-control-simulation-kefb4fimkk3xehhfnfg4nu.streamlit.app/)
 
 ## 📸 Preview
 
